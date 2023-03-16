@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# A simple frontend web design made using React.
 
 
 
