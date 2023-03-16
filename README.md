@@ -4,7 +4,7 @@
 
 Visit Website @ https://ajax-thebug.github.io/GPT3-frontend/
 
-##Basic npm guide if you wish to edit or view this on your local machine.
+## Basic npm guide if you wish to edit or view this on your local machine.
 
 ## Available Scripts
 
