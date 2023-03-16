@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-apphttps://ajax-thebug.github.io/GPT3-frontend/
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app
 
 Visit Website @ https://ajax-thebug.github.io/GPT3-frontend/
 
